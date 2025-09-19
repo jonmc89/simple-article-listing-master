@@ -1,0 +1,17 @@
+/* || Global Styles */
+
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+:root {
+  --black: #000;
+  --grey: #4d5562;
+  --ivory: #d9d9d9;
+  --off-white: #f8fafc;
+}
+
+/* || Main Styles */
